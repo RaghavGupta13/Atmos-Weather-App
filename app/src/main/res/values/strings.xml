@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Atmos</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+
+    <string name="hint_for_city_name">Enter a city name</string>
+    <string name="text_for_show_weather_btn">Show Weather</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="text_hint_for_date_time">February 25, 11:07 pm</string>
+    <string name="loading">Just a moment...</string>
+
+</resources>
